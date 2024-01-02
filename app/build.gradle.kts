@@ -67,5 +67,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
-    implementation(project(":image-preview"))
+    implementation("com.github.alvinnet21:PewFirstLibrary:1.1")
 }
