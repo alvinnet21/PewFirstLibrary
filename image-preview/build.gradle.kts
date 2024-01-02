@@ -53,7 +53,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.pepew"
+            groupId = "com.github.alvinnet21"
             artifactId = "image-preview-compose"
             version = "1.0"
 
